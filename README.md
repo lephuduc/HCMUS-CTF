@@ -106,7 +106,7 @@ public static String ran(String s) {
 ```
 Hàm này chỉ thay đổi từng kí tự cơ bản, dùng nó với chuỗi đề cho `"ERNYYK"`, ta được chuỗi `"REALLY"`
 
-Flag ``HCMUS-CTF{this_is_a_REALLY_ba*******}`` chỉ cần tìm phần cuối thông qua:
+Flag `HCMUS-CTF{this_is_a_REALLY_ba*******}` chỉ cần tìm phần cuối thông qua:
 
 ```java
 new StringBuilder(flag).reverse().toString().toLowerCase().substring(1).startsWith(ctx.getString(C0095R.string.last_part))
