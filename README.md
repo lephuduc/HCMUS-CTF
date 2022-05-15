@@ -80,7 +80,7 @@ flag.charAt(((int) (((double) 3) * Math.pow((double) 2, (double) 3))) + 2) == fl
 ```
 đoạn này chạy các code bên trong sẽ ra 1 con số cụ thể, sau đó, đoạn này sẽ có nghĩa là flag[26]==flag[19] (kí tự '_')
 
-=> Flag hiện tại ``HCMUS-CTF{this_is_a_******_ba*******}`
+=> Flag hiện tại `HCMUS-CTF{this_is_a_******_ba*******}`
 ```java
 Helper.ran(flag.toUpperCase().substring((3 * 2 * 3) + 2, (int) (Math.pow((double) 5, (double) 2) + 1.0d))).equals("ERNYYL")
 ```
