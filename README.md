@@ -163,6 +163,6 @@ Chạy đoạn này, ta được regex: `[A-Z_][a-z_][A-Z_][a-z_][A-Z_][a-z_][A-
 
 Flag:
 ```HCMUS-CTF{ThIs_iS_A_ReAlLy_bAsIc_rEv}
-````
+```
 
    
