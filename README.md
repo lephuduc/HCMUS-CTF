@@ -162,7 +162,8 @@ Chạy đoạn này, ta được regex: `[A-Z_][a-z_][A-Z_][a-z_][A-Z_][a-z_][A-
 ![image](https://user-images.githubusercontent.com/88520787/168465918-8ef8ac68-3074-43ad-86f2-56059c5a2737.png)
 
 Flag:
-```HCMUS-CTF{ThIs_iS_A_ReAlLy_bAsIc_rEv}
+```
+HCMUS-CTF{ThIs_iS_A_ReAlLy_bAsIc_rEv}
 ```
 
    
