@@ -2,7 +2,7 @@
 
 ## BabyDroid - 200đ 
 
-**ủa, bài này k biết sao debug bị lỗi nên full static analysis =)))**
+### ủa, bài này k biết sao debug bị lỗi nên full static analysis =)))
 
 
 Đầu tiên đề cho ta 1 file apk chỉ dùng để check flag cơ bản
